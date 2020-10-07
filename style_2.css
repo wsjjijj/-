@@ -1,0 +1,23 @@
+p{
+   
+    margin-right: 20px;
+    font-weight: bold;
+
+}
+.l1 p{
+    float: left;
+    
+}
+.l1{
+    overflow: auto;
+}
+h1{
+    color: white;
+    float: left;
+    background-color:rgb(82, 118, 238);
+    margin: 20px;
+    padding-top: 50px;;
+    padding-bottom: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+}

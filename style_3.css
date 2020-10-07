@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+}
+h1{
+    background-color: rgb(122, 120, 120);
+    color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    display: block;
+    background-color: rgb(192, 192, 192);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 1px solid white;
+    margin: 0px;
+}
+p,h2,div{
+    float: left;
+}
+p{
+    margin: 15px;;
+}
+div{
+    margin-top: -22px;
+    margin-bottom: 22px;;
+    width: 100%;
+    border-bottom: 1px solid rgb(110, 110, 110);   
+}

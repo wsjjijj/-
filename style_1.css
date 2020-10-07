@@ -1,0 +1,13 @@
+p{
+   
+    margin-right: 20px;
+    font-weight: bold;
+
+}
+.l1 p{
+    float: left;
+    
+}
+.l1{
+    overflow: auto;
+}
